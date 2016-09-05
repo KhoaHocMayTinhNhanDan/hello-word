@@ -1,2 +1,3 @@
 # hello-word
-frist descripiton
+
+Hi Humans!
